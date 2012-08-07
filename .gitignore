@@ -1,0 +1,18 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#java specific
+*.class
+
+#netbeans ignore personal stuff
+nbproject/private/
+
+#IntelliJ
+.idea
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
